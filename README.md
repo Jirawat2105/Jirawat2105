@@ -6,7 +6,7 @@
 
 Digital Science and Technology student at **Mahidol University**. Interested in the work where circuits, code, networks, and physical parts meet.
 
-Personal IoT. Bike projects. Photography tools. Practical ideas with something to assemble, measure, or fix.
+Personal IoT. Bike projects. DIY audio. Photography tools. Practical ideas with something to assemble, measure, or fix.
 
 ---
 
@@ -34,7 +34,15 @@ Personal IoT. Bike projects. Photography tools. Practical ideas with something t
 
 Mechanical fabrication belongs alongside the electronics and software: making the physical parts is part of the work.
 
-## 04 / OUT OF THE SHOP
+## 04 / AUDIO CORNER
+
+Interests that bring electronics, fabrication, and listening together.
+
+- **Speaker crossover networks** — DIY crossover design, component selection, and tuning.
+- **Home theater design & setup** — speaker placement, system layout, and integration.
+- **DIY speaker stands & mounts** — custom supports and angled adapters, including experiments with bookshelf speakers as up-firing height channels for Dolby Atmos setups.
+
+## 05 / OUT OF THE SHOP
 
 ### [PanoTess](https://github.com/Jirawat2105/PanoTess)
 `PHOTOGRAPHY TOOL / WINDOWS + macOS`
@@ -43,7 +51,7 @@ Split panoramic images into consecutive slices. Live crop preview. Local process
 
 **Project creator.** Application code written entirely by AI under my direction. Built with Python, PySide6 / Qt, and Pillow.
 
-## 05 / BACKGROUND
+## 06 / BACKGROUND
 
 **Mahidol University**  
 B.Sc. in Digital Science and Technology  
