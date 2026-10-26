@@ -1,26 +1,24 @@
 # Jirawat Pratuangtip
 
-**Digital Science and Technology student | Interested in R&D, Networking & Hardware**
+**Digital Science and Technology student | R&D, Networking & Hardware interests**
 
 I'm studying for a Bachelor of Science in Digital Science and Technology at Mahidol University (2024–present).
 
-My main interests are research and development, computer networks, and hardware. I'm drawn to understanding how systems work, investigating technical problems, and exploring how hardware and software interact.
+My interests span research and development, computer networks, and hardware. I like exploring how hardware and software work together, with a particular interest in personal IoT projects, bike projects, and practical apps for photography.
 
 ## Areas of interest
 
-- **Research & development** — exploring technical ideas through experimentation, testing, and evaluation.
-- **Computer networks** — understanding connectivity, network behavior, and performance.
-- **Hardware & systems** — exploring computing devices and the interaction between physical components and software.
+- **R&D, networking & hardware** — understanding systems through experimentation, testing, and evaluation.
+- **Personal IoT projects** — exploring connected devices and useful applications for everyday life.
+- **Bike projects** — exploring ideas that connect bikes, hardware, and software.
+- **Personal apps & photography tools** — tools such as EXIF readers, photobooth apps, and utilities that simplify photography workflows.
 
-## Selected projects
+## Featured project
 
-### [PanoTess](https://github.com/Jirawat2105/PanoTess)
+### [PanoTess](https://github.com/Jirawat2105/PanoTess) · Photography tool
 A desktop application for splitting panoramic images into consecutive slices, with a live crop preview and local image processing on Windows and macOS.
 
 Project creator; application code written entirely by AI under my direction. Built with Python, PySide6 / Qt, and Pillow.
-
-### [Python Calculator](https://github.com/Jirawat2105/python-calculator)
-A forked learning repository for basic arithmetic operations and unit testing in Python.
 
 ## Education
 
@@ -30,4 +28,4 @@ Bachelor of Science in Digital Science and Technology
 
 ---
 
-Interested in connecting with people working on R&D, networking, and hardware projects.
+Interested in connecting with people working on R&D, networking, hardware, IoT, and photography tools.
