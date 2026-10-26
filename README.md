@@ -4,7 +4,7 @@
 
 I'm studying for a Bachelor of Science in Digital Science and Technology at Mahidol University (2024–present).
 
-My interests span research and development, computer networks, and hardware. I like exploring how hardware and software work together, with a particular interest in personal IoT projects, bike projects, and practical apps for photography.
+My interests span research and development, computer networks, hardware, and mechanical fabrication. I like exploring how hardware and software work together, with a particular interest in personal IoT projects, bike projects, and practical apps for photography.
 
 ## Areas of interest
 
@@ -12,6 +12,22 @@ My interests span research and development, computer networks, and hardware. I l
 - **Personal IoT projects** — exploring connected devices and useful applications for everyday life.
 - **Bike projects** — exploring ideas that connect bikes, hardware, and software.
 - **Personal apps & photography tools** — tools such as EXIF readers, photobooth apps, and utilities that simplify photography workflows.
+
+## Tech Stack
+
+| Area | Technologies & practical skills |
+| --- | --- |
+| Wireless & networking | Wi-SUN, home Wi-Fi networking |
+| Electronics & embedded systems | PCB design, embedded development |
+| Mechanical & fabrication | Welding, 3D printing, laser cutting, CNC |
+
+## Tools Stack
+
+| Workflow | Tools |
+| --- | --- |
+| Electronics & PCB design | KiCad 10.0 |
+| Mechanical design | DesignSpark Mechanical |
+| Embedded development | Code Composer Studio (CCS), Simplicity Studio 6 |
 
 ## Featured project
 
